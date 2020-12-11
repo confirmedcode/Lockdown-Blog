@@ -1,0 +1,140 @@
+---
+layout: post
+title:  "How to Make $80,000 Per Month on the Apple App Store"
+date:   2020-11-25 00:00:00 -0800
+author: "Johnny Lin"
+---
+
+### It’s far easier than you think. No luck or perseverance necessary.
+
+*Note: I originally published this story on Medium, where it received 45,000 likes (#52 overall that year). I'm republishing it here because writing this helped spark my interest in transparency and trust in software, and eventually building [Lockdown Privacy](https://lockdownprivacy.com){:target="_blank"}, [Openly Operated](https://openlyoperated.org){:target="_blank"}, and [Privacy Review](https://privacyreview.co){:target="_blank"}.*
+
+At WWDC, Apple reported that they’ve paid out $70 billion to developers, with 30% of that ($21 billion!) in the last year. That’s a *huge* spike, and surprising to me because it didn’t seem like my friends and I were spending more on apps last year. But that’s anecdotal, so I wondered: Where are these revenues coming from? I opened App Store to browse the top grossing apps.
+
+## Step 1: Follow The Money
+
+![](https://cdn-images-1.medium.com/max/2000/1*FDxvuLRkNMRRVvUda36LFA.png)
+
+I scrolled down the list in the Productivity category and saw apps from well-known companies like Dropbox, Evernote, and Microsoft. That was to be expected. But what’s this? The #10 Top Grossing Productivity app (as of June 7th, 2017) was an app called “Mobile protection :Clean & Security VPN”.
+
+Given the terrible title of this app (inconsistent capitalization, misplaced colon, and grammatically nonsensical “Clean & Security VPN?”), I was sure this was a bug in the rankings algorithm. So I check Sensor Tower for an estimate of the app’s revenue, which showed… $80,000 per month?? That couldn’t possibly be right. Now I was *really *curious.
+
+I tap into the app details to see that the developer is “Ngan Vo Thi Thuy”. Wait so, this is a VPN service offered by an independent developer who didn’t even bother to incorporate a company? That’s a huge red flag. For those of you who don’t know why this is bad, a VPN basically routes all your internet traffic through a third party server. So in this case, a random person who couldn’t piece together a grammatically correct title, who also didn’t bother to incorporate a company, wants access to all your internet traffic.
+
+Another red flag was this comically terrible app description:
+
+![Direct screenshot from the “Mobile protection :Clean & Security VPN” app description.](https://cdn-images-1.medium.com/max/2000/1*8evBUPzd_qAo0A7YUavHaQ.png)*Direct screenshot from the “Mobile protection :Clean & Security VPN” app description.*
+
+According to this, “Mobile protection :Clean & Security VPN” is “Full of features” — well, it’s certainly full of *something*. Apparently, “Mobile protection” includes protecting you from “dupplicate” contacts. And these “scans” are what the screenshots claim as “Quick & Full Scan Internet Security”. Five internets to anyone who can figure out the relationship between Internet Security and duplicate contacts.
+
+All these red flags — and I haven’t even downloaded the app yet. I check the Reviews tab to find some vague, fake-looking 5-star reviews:
+
+![](https://cdn-images-1.medium.com/max/2000/1*lP_-XxGuY2G3D5kwNNqgvA.png)
+
+Seeing the dates on these reviews brought up another question. How long has this app been up? Well, according to Sensor Tower, “Mobile protection :Clean & Security VPN” has been a top 20 grossing Productivity app since at least April 20th (almost 2 months now).
+
+## Step 2: Duplicitous Behavior
+
+Out of curiosity about this supposedly top grossing app, I download it. Here’s what happens when I open it for the first time:
+
+![](https://cdn-images-1.medium.com/max/2000/1*0CLMsW13YkPTf6gJ_-gDLA.gif)
+
+Yes, “**This app need to cccess to your Contact to scan your Contact first.**” The only option here is to tap Agree, and then iOS asks me if I want to give this app “cccess” to my contacts. Uhm, no thank you?
+
+![](https://cdn-images-1.medium.com/max/2000/1*5diXWOginryZgNa8RFWOVQ.png)
+
+After skipping that, the app tells me my device is at risk. Of course it is. It‘s also ready to “Device Analyze”, Quick and Full Scan, and secure my internet (I can’t wait!).
+
+Tapping “Device Analyze” shows my iPhone’s free memory and storage — a useless and irrelevant feature.
+
+Tapping both Quick Scan and Full Scan shows:
+
+**“Your contact is cleaned. No dupplicated found.”**
+
+Oh good — no duplicates, except for the extra “p” in “dupplicated”, I guess? 🤷🏻‍♂️
+
+Okay, so let me finally secure my internet by tapping “Secure Internet”. Hmm, what’s this—?
+
+![play WITHOUT installing? oh boy!](https://cdn-images-1.medium.com/max/2000/1*Pl6qqjlmplxyOGtgBg-9PA.png)*play WITHOUT installing? oh boy!*
+
+Up comes this incredibly generous offer to play a bubble shooter game *without *installing! Not sure what I did to deserve this amazing free gift, but it will have to wait. I tap the “X” to return to securing my internet.
+
+Here’s the next screen:
+
+![Such generous. Much design. Very scam.](https://cdn-images-1.medium.com/max/2000/1*N1cgm5SZUGDsy7CTiHlHRw.png)*Such generous. Much design. Very scam.*
+
+And obviously, I jump at the opportunity to “Instantly use full of smart anti-virus” by tapping “FREE TRIAL”. It’s free, after all.
+
+![](https://cdn-images-1.medium.com/max/2000/1*l-1_qUqc2GYRrKoXszHkGg.png)
+
+Touch ID? Okay! Wait… let’s read the fine print:
+
+**“Full Virus, Malware scanner”**: What? I’m pretty sure it’s impossible for any app to scan my iPhone for viruses or malware, since third party apps are sandboxed to their own data, but let’s keep reading…
+
+**“You will pay $99.99 for a 7-day subscription”**
+
+Uhh… come again?
+
+Buried on the third line in a paragraph of text in small font, iOS casually tells me that laying my finger on the home button means I agree to start a $100 subscription. And not only that, but it’s $100 PER WEEK? I was one Touch ID away from a **$400 A MONTH subscription to reroute all my internet traffic to a scammer?**
+
+I guess I was lucky I actually read the entire fine print. But what about other people?
+
+## Step 3: It’s All Starting to “Ad” Up… to Profit
+
+It suddenly made a lot of sense how this app generates $80,000 a month. At $400/month per subscriber, it only needs to scam 200 people to make $80,000/month, or $960,000 a year. Of that amount, Apple takes 30%, or $288,000 — from just this one app.
+
+At this point, you might still be in disbelief. Maybe you’re thinking: “Sure, just 200 people, but still, it seems highly unlikely that even one person would download this scammy looking app, much less pay for it.”
+
+Maybe you wouldn’t download it. I certainly wouldn’t. But I’ve also never clicked on a Google Ad, yet Google somehow rode Adwords to $700 billion dollars today. “Mobile protection :Clean & Security VPN” is currently ranked #144 in most downloaded free productivity apps in the App Store, with an estimated 50,000 downloads in April.
+
+To get 200 subscribers from 50,000 downloads, they just need to convert 0.4% to purchases — or maybe even fewer, because **these subscriptions are automatically renewing**, so the subscribers stack month over month. **Can you really not imagine one of your tech-illiterate relatives accidentally (or even intentionally) subscribing to this “free trial” to protect their iPad from viruses?**
+
+But how did this app get 50,000 downloads in the first place?
+
+I remembered reading that a large percentage of apps were discovered through app store search. So maybe, this app somehow had really good App Search Optimization. I searched the app store for “virus scanner”:
+
+![](https://cdn-images-1.medium.com/max/2000/1*cRWgmFj05K-GnCkdMdMSbA.png)
+
+The first result is an ad for “Protection for iPhone — Mobile Security VPN”. Well, that sounds familiar. This isn’t the same app, but this one’s In-App Purchase is “Free Trial to Premium Protection” for $99.99, and it’s ranked #33 for Top Grossing in the Business category.
+
+Turns out, scammers are abusing Apple’s relatively new and immature App Store Search Ads product. They’re taking advantage of the fact that there’s no filtering or approval process for ads, and that ads look almost indistinguishable from real results, and some ads take up the entire search result’s first page.
+
+Later, I dug deeper to find that unfortunately, these aren't isolated incidents — they’re fairly common in the app store’s top grossing lists. And this isn’t just happening with security related keywords. It seems like scammers are bidding on many other keywords. Here’s a search for “wifi”:
+
+![](https://cdn-images-1.medium.com/max/2000/1*AiHE5tvxiM0HseFkuHy2Jg.png)
+
+The top result is an ad for “WEP Password Generator”, a simple random string generator that charges $50/month. It’s already making $10,000 per month, despite being released in April. It’s likely a clone of [this app](https://sensortower.com/ios/us/jose-maria-delgado-delgado/app/wifi-password-generator-wep-keys-for-your-modem/884331356/), which indicates that yes, this scheme has become so large that scammers are copying each other.
+
+## Fixing the App Store: What You Can Do
+
+Well first, if you’re reading this as a developer who also happens to have a less-than-average sense of morality, congratulations! You’ve just learned a (relatively) easy way to make tens of thousands of dollars on Apple’s App Store — at least until they change something. Otherwise, here’s a few suggestions:
+
+1. Teach your less tech-savvy friends and relatives how to [check and disable subscriptions](https://www.imore.com/how-to-cancel-app-store-subscription-ipad-iphone-mac-apple-tv). If they’re affected, have them get [refunds](https://www.imore.com/how-to-get-refund-itunes-app-store).
+
+1. Report scam apps when you see them with the iTunes Connect [Contact Us](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa/wa/jumpTo?page=contactUs) form. Select “Feedback and Concerns” and “Report a Fraud Concern”.
+
+1. Signal boost until Apple fixes this by sharing with friends and family.
+
+## Fixing the App Store: What Apple Should Do
+
+It’s somewhat hard to believe that Apple isn’t aware of this problem, since these apps aren’t small frys — they’re all over the top lists on the App Store. It could be that they simply don’t consider it a big enough problem to deal with it, or that it just happens to be a very profitable problem for their Search Ads and App Store platforms. Either way, here are some suggestions:
+
+1. **Remove Scams and Refund Users**: The most obvious. Simply hire someone to proactively and regularly scroll through top apps and remove scams. As you can tell from above, these are not hard to spot at all. And for people who have purchased scam subscriptions, automatically and fully refund all of those past purchases.
+
+1. **Better UI on Touch ID Subscriptions**: Don’t use small, fine print with the price buried in the text (see “Free Trial” screenshot above). The price should be much more prominent, with possibly a required 5-second delay before a purchase can be made. As a bonus, maybe show the app’s most useful/recent ratings or reviews here.
+
+1. **Stricter Review of Subscriptions**: How do in-app purchases called “Full Virus, Malware Scanner” get approved by app review for $400 per month? Is anyone home? When a layperson sees this name in an email receipt with a slick green badge icon, they probably don’t cancel it because it looks as official as their Apple Music receipts. And for some apps like [this one](https://sensortower.com/ios/us/ngoc-nguyen/app/security-mobile-vpn-protection-anti-track-virus/1209482476/), despite its in-app purchase being named “Free Trial to Premium”, it wasn’t a trial at all — it was an immediate purchase.
+
+1. **Prompt for Delete Subscription on App Deletion:** Many 1-star reviewers on scam apps said they were getting charged even though they deleted the app. To most people, that’s the way it should work — so why doesn’t it work that way? When a user deletes an app, ask the user if they want to also cancel their subscription. Of course, confirm it again so they don’t accidentally cancel their Netflix.
+
+1. **Easier Cancellation of Subscriptions**: Subscriptions are so difficult to cancel, it’s almost as if the design-focused Apple intentionally made it hard. On iOS 10, cancelling a subscription is literally a [nine step process](https://www.imore.com/how-to-cancel-app-store-subscription-ipad-iphone-mac-apple-tv)*. *Even installing a third-party keyboard is easier (six steps). Make this simpler, please. And no, the tiny “Report a Problem” button on email receipts isn’t enough. (Update: I’m actually [unable to refund](http://i.imgur.com/qwAn4ZT.png) one of the scam subscriptions, even through the official Apple links.)
+
+1. **Fraud- and Abuse-Proof Search Ads**: Part of what makes this scam easy to run is the how new Store Search Ads are. Many regular users probably don’t even know they’re clicking an ad. At the least, Apple should review ads for potential fraud before running them (Facebook and Google both do this), and make it more obvious that the top result is an ad.
+
+1. **Fine and Take Legal Action**: This suggestion is last because it’s unlikely Apple will do it. There’s currently no incentive not to build scam apps. The worst that can happen is getting your account deleted — which doesn’t matter, because you still keep the ill-gotten profits, and you can still make a new account and do it again. Create a deterrent effect by fining and taking legal action against the worst offenders.
+
+## Final Note
+
+App developers take pride in the fact that if their creation adds value, or improves peoples’ lives in some way, then people will be happy to pay for it, and everybody benefits. Not only that, but making good apps requires design, engineering, and sales skills, as well as a ton of dedication and hard work.
+
+So, aside from the obvious moral wrongs of exploiting the vulnerable for profit, it’s extremely disheartening to know that some developers are becoming financially successful the easy and unethical way — by making bogus apps that take a few hours to code, and whose functionality is purely to steal from the less well-informed.
