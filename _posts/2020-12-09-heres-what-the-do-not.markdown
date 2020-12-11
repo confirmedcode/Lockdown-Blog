@@ -5,7 +5,7 @@ date:   2020-12-09 00:00:00 -0800
 author: "Johnny Lin"
 ---
 
-### Why do you have to opt in? Are there people who actually want their data to be sold?
+### And why is it even an option? Are there people who *want* their data to be sold?
 
 ![Credit: Unknown — if you know the original author, let me know and I’ll cite it.](https://cdn-images-1.medium.com/max/2000/1*UyU_XbnAcNwlrD5WMqHWIw.jpeg)
 
@@ -59,7 +59,7 @@ Let’s go to the source: Sites you *want* to use are simultaneously serving you
 
 The simple solution that we (two ex-Apple engineers) came up with is to directly block the trackers, so that your personal data doesn’t get out to third parties in the first place. This is way more effective than allowing tracking and hoping that apps and sites don’t later sell your info.
 
-We built a free and open source app that you can [you can download right now](https://lockdownhq.com) called Lockdown, and it blocks trackers, ads, and badware in not just your browsers, but *all apps.* So you don’t have to stop reading the news, online shopping, or playing games— just install Lockdown, push a button to activate it, and then go on living your life — we take care of the rest.
+We built a free and open source app that you can [you can download right now](https://lockdownprivacy.com) called Lockdown, and it blocks trackers, ads, and badware in not just your browsers, but *all apps.* So you don’t have to stop reading the news, online shopping, or playing games— just install Lockdown, push a button to activate it, and then go on living your life — we take care of the rest.
 
 ![Simple to use for everyone, powerful customizability for advanced users.](https://cdn-images-1.medium.com/max/2250/1*699ZuPFQ9Qc0aOcdJifXIg.png)*Simple to use for everyone, powerful customizability for advanced users.*
 
@@ -69,6 +69,6 @@ Nope. We’re pretty open about how we pay the bills. Lockdown lets you automati
 
 We believe people and companies that build privacy products have a unique responsibility to be more transparent than any other product line. That’s why Lockdown is 100% open source and [openly operated](https://openlyoperated.org) — so that anyone can see what it’s doing, and just as importantly, what it’s *[not](https://techcrunch.com/2019/02/21/facebook-removes-onavo/)* *[doing](https://www.computerweekly.com/news/252466203/Top-VPNs-secretly-owned-by-Chinese-firms)*.
 
-We built Lockdown because it’s something we wished existed: a simple, transparent, and powerful tool for stopping invasive third-party tracking. We hope it can do the same for you. Get it for free at [LockdownHQ.com](https://lockdownhq.com).
+We built Lockdown because it’s something we wished existed: a simple, transparent, and powerful tool for stopping invasive third-party tracking. We hope it can do the same for you. Get it for free at [LockdownPrivacy.com](https://lockdownprivacy.com).
 
 (Update March 2020: We were just [featured in Forbes](https://www.forbes.com/sites/kateoflahertyuk/2020/03/06/meet-lockdown-the-app-that-reveals-whos-tracking-you-on-your-iphone/#3ef7be1b59eb) — check it out and share the story!)

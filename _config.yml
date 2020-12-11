@@ -16,7 +16,7 @@
 title: Transparency Matters
 email: johnny@lockdownprivacy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A news and opinion blog about transparency, privacy, and incentives. Written by Johnny Lin, co-founder of Lockdown Privacy.
+  A blog about transparency, privacy, and incentives.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.lockdownprivacy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lockdown_hq
