@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Can You Really Trust the Apps and Sites You Use?"
+title:  "Can You Trust the Apps and Sites You Use?"
 date:   2020-12-02 00:00:00 -0800
 author: "Johnny Lin"
 ---
@@ -9,11 +9,11 @@ author: "Johnny Lin"
 
 When you send a photo to someone, your messaging app actually first sends the photo to an app’s server, which then sends the photo to them:
 
-![](https://cdn-images-1.medium.com/max/3184/1*KKVbLVyMWiypj0Qaopg27A.png)
+![](/assets/images/1*KKVbLVyMWiypj0Qaopg27A.png)
 
 And sure, in the 90’s, this might have been what happened. But somewhere along the line, someone figured out how to profit from user data, and so now here’s what *actually* happens:
 
-![](https://cdn-images-1.medium.com/max/3860/1*vHOaHP4CGZdluwt7m3xoOw.png)
+![](/assets/images/1*vHOaHP4CGZdluwt7m3xoOw.png)
 
 And that’s just sending photos. Today, you give apps access to your camera, location, microphone, contacts, browsing habits, even your medical records. After you tap “Allow” once, an app can even upload your entire photo and video library to their servers in the background while you’re sleeping.
 
@@ -53,7 +53,7 @@ The aesthetics of a website might tell you that that they spent $20 on a SquareS
 
 If all your friends jumped off a digital bridge, would you? At one point, Yahoo had over three billion accounts, and in 2013, they broke the world record 🎉for biggest data breach ever, by a [very long shot](https://www.csoonline.com/article/2130877/the-biggest-data-breaches-of-the-21st-century.html). Since then, there have been many more breaches of tens or hundreds of millions accounts of other companies. And these are only counting disclosed and known breaches — nobody knows what the real numbers are.
 
-Popularity isn’t a reliable proxy of how trustworthy an app is. In fact, there are even scam apps that make it into the [top charts](https://medium.com/@johnnylin/how-to-make-80-000-per-month-on-the-apple-app-store-bdb943862e88?source=friends_link&sk=6880a1d40db8c1019257c7a417840d27) of the App Store.
+Popularity isn’t a reliable proxy of how trustworthy an app is. In fact, there are even scam apps that make it into the [top charts](https://blog.lockdownprivacy.com/2020/11/25/how-to-make-80000.html) of the App Store.
 
 ## So what actually creates trust?
 
@@ -79,7 +79,7 @@ This new standard is called **[Openly Operated](https://openlyoperated.org)**, b
 
 How this is different from apps today? Here’s the photo-sending example from the beginning again — except this time, the app is Openly Operated:
 
-![](https://cdn-images-1.medium.com/max/3912/1*rJLMAkXuf-6lTJj6Qj1Oqw.png)
+![](/assets/images/1*rJLMAkXuf-6lTJj6Qj1Oqw.png)
 
 Unlike the earlier examples, the Openly Operated [certification process](https://openlyoperated.org/how-to) forces the app to be fully and verifiably transparent, preventing the app’s operators from hiding privacy and security issues. This process, at a high level, is:
 
@@ -99,7 +99,7 @@ Companies have been blatantly dishonest with how they handle and secure user dat
 
 But over the last ten years, we’ve learned the hard way that Facebook has a very different definition of “Only Me”. To Facebook, “Only Me” means “Me and [All Of](https://www.cbsnews.com/news/facebook-your-personal-info-for-sale/) [Facebook’s](http://content.time.com/time/nation/article/0,8599,1532225,00.html) [Advertisers](http://fortune.com/2017/10/27/facebook-russian-election-ads/) and [Their](https://www.bloomberg.com/news/articles/2018-04-04/facebook-scans-what-you-send-to-other-people-on-messenger-app) [Partners](https://www.axios.com/facebook-whatsapp-targeted-ads-user-privacy-c1e18e9b-ed76-4954-ab74-a64a88647e8c.html) and Some Of [Facebook’s](http://fortune.com/2018/04/03/facebook-videos-delete-personal-data/) [25,000](https://motherboard.vice.com/en_us/article/bjp9zv/facebook-employees-look-at-user-data) [Employees](https://thehackernews.com/2015/02/facebook-acccount-password.html) and Some [Unknown Number](https://www.theverge.com/2019/5/6/18530887/facebook-instagram-ai-data-labeling-annotation-private-posts-outsourced) [Of Contractors](https://www.reuters.com/article/us-facebook-privacy-firing/facebook-employee-fired-over-bragging-about-access-to-user-information-idUSKBN1I334E) and [Facebook Apps That Friends](https://www.rappler.com/technology/news/200508-cambridge-analytica-other-facebook-quiz-apps-brittany-kaiser) or [I Have Used](https://www.cnbc.com/2018/04/08/cubeyou-cambridge-like-app-collected-data-on-millions-from-facebook.html) and [Those Apps’](http://www.latimes.com/business/la-fi-facebook-sells-data-to-chinese-20180605-story.html) [Employees](https://www.theguardian.com/news/2018/mar/20/facebook-data-cambridge-analytica-sandy-parakilas) and [Anyone Those Apps](https://www.cnbc.com/2018/04/16/facebook-collects-data-even-when-youre-not-on-facebook.html) [Share Or Sell Data To](https://www.marketwatch.com/story/spooked-by-the-facebook-privacy-violations-this-is-how-much-your-personal-data-is-worth-on-the-dark-web-2018-03-20)… [Maybe](https://www.ftc.gov/news-events/press-releases/2011/11/facebook-settles-ftc-charges-it-deceived-consumers-failing-keep)”.
 
-![Probably need a smaller font to fit the truth here.](https://cdn-images-1.medium.com/max/2000/1*El8rgOdv_tVUSkEwkqenZg.png)*Probably need a smaller font to fit the truth here.*
+![Probably need a smaller font to fit the truth here.](/assets/images/1*El8rgOdv_tVUSkEwkqenZg.png)*Probably need a smaller font to fit the truth here.*
 
 Privacy and security scandals happen every week not because companies are evil, but because like anything else, companies operate on incentives. In a world where there’s no way to verify an app’s security or privacy claims, why should a company be honest and make less money, while their competitors are being dishonest and making more money? Current incentives give dishonest and insecure companies an edge to grow faster, compete more efficiently, spend more on marketing, and capture the most customers.
 

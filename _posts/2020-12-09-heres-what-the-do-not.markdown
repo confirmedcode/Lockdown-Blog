@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Why Is There A “Do Not Sell My Personal Data” Button?"
+title:  "The “Do Not Sell My Personal Data” Button Makes Absolutely No Sense"
 date:   2020-12-09 00:00:00 -0800
 author: "Johnny Lin"
 ---
 
 ### Are there people who *want* their data to be sold?
 
-![Credit: Unknown — if you know the original author, let me know and I’ll cite it.](https://cdn-images-1.medium.com/max/2000/1*UyU_XbnAcNwlrD5WMqHWIw.jpeg)
-
-*Photo Credit: Unknown — if you know the original author, let me know and I’ll cite it.*
+![](/assets/images/1*UyU_XbnAcNwlrD5WMqHWIw.jpeg)
 
 A few years ago, people started realizing that their personal data (browsing activity, IP address, etc) were being monetized and/or exploited for profit. To combat this, the California Consumer Privacy Act (CCPA) was passed, which said that companies have to let users say no to the sale of their personal data. Other states are now passing similar bills.
 
@@ -17,21 +15,21 @@ For the uninitiated, personal data like IP addresses and other unique identifier
 
 So this new law passes, and now sites slap on a “Do Not Sell My Data” button to appease the regulators. What do they do? Do they work? I clicked a bunch of 'em to find out:
 
-![Six sites with the "Do Not Sell My Data" button at the site footer.](https://cdn-images-1.medium.com/max/3324/1*KXNhPPsLCP6EC4CTxEyAIQ.png)*Six sites with the "Do Not Sell My Data" button at the site footer.*
+![Six sites with the "Do Not Sell My Data" button at the site footer.](/assets/images/1*KXNhPPsLCP6EC4CTxEyAIQ.png)*Six sites with the "Do Not Sell My Data" button at the site footer.*
 
 For shopping sites Bloomingdale’s, Nordstrom, and Lowe’s, the “Do Not Sell My Info” links lead to forms where, ironically, you're required to give *more* of your personal data in order to proceed to the next step. If you're someone who is concerned about your data being sold, why would you give away your full name, emails, phone number, home address, and credit card numbers to *another third party*? What are they going to do with this info?
 
-![How many companies are in the “Intel Alliance”? Who is OneTrust and what happens if Google acquires them? And WTF is “service-now.com”?](https://cdn-images-1.medium.com/max/6144/1*rDj7_6vfPzUpgdcVsMXCUQ.png)*How many companies are in the “Intel Alliance”? Who is OneTrust and what happens if Google acquires them? And WTF is “service-now.com”?*
+![How many companies are in the “Intel Alliance”? Who is OneTrust and what happens if Google acquires them? And WTF is “service-now.com”?](/assets/images/1*rDj7_6vfPzUpgdcVsMXCUQ.png)*How many companies are in the “Intel Alliance”? Who is OneTrust and what happens if Google acquires them? And WTF is “service-now.com”?*
 
 On [popular](https://www.similarweb.com/website/thehill.com) news site "The Hill", clicking “Do Not Sell My Data” shows a dialog that links to the privacy policies of the 32 advertising and tracking companies they work with. The “Save & Exit” button makes no sense because there are no options to save, and clicking it does nothing. The “Do Not Sell My Data” button dismisses the dialog without any visible response. Did that… do something? Do I have to click that every time I visit the site? And am I expected to read and stay updated with all 32 privacy policies just to read the news?
 
-![A sort of “Forbes 30 under 30” of tracking and ad companies. Congrats to all who made it.](https://cdn-images-1.medium.com/max/2196/1*j60jfkKvB5LHRfYsyfFzEg.png)*A sort of “Forbes 30 under 30” of tracking and ad companies. Congrats to all who made it.*
+![A sort of “Forbes 30 under 30” of tracking and ad companies. Congrats to all who made it.](/assets/images/1*j60jfkKvB5LHRfYsyfFzEg.png)*A sort of “Forbes 30 under 30” of tracking and ad companies. Congrats to all who made it.*
 
 Clicking “Do Not Sell My Data” buttons on other sites, other issues surfaced:
 
 First, the opt-out forms apparently need to be completed using every browser and device I use to access the apps or sites. So the number of times I have to do this process is (number of sites & apps) * (number of devices) * (number of browsers). The time wasted ends up getting pretty huge, pretty quickly.
 
-![Big “getting websites to stop selling my info” Mood. [Source](https://www.biblio.com/the-myth-of-sisyphus-and-by-camus-albert/work/2720)](https://cdn-images-1.medium.com/max/2400/1*ywnebVXKJ9ud_I3yoO0qpg.png)*Big “getting websites to stop selling my info” Mood. [Source](https://www.biblio.com/the-myth-of-sisyphus-and-by-camus-albert/work/2720)*
+![Big “getting websites to stop selling my info” Mood. [Source](https://www.biblio.com/the-myth-of-sisyphus-and-by-camus-albert/work/2720)](/assets/images/1*ywnebVXKJ9ud_I3yoO0qpg.png)*Big “getting websites to stop selling my info” Mood. [Source](https://www.biblio.com/the-myth-of-sisyphus-and-by-camus-albert/work/2720)*
 
 Second, I learn that every time I clear my cookies (which are another way websites track users), I have to redo everything. So if I attempt to reduce tracking by clearing my cookies, I’m actually also implicitly agreeing to let companies sell my personal data, and I have to opt-out on every site again. 🤦🏻‍♂️
 
@@ -47,7 +45,7 @@ First, tracking companies are already [challenging](https://www.reuters.com/arti
 
 Second, enforcing laws about what companies should do internally is nearly impossible, because catching violations relies on self-reporting, and also because many violators are outside of the law’s jurisdiction. There’s simply no scalable way to know if companies are selling user data. If a company claims they don’t sell user data, but does it anyway, they’ll get away with it 99.999% of the time, because the only people that know about the violation are themselves. Add a few more 9’s if the company is based outside the USA.
 
-![I thought Facebook might have put their “Do Not Sell” link under the “More” menu. Nah.](https://cdn-images-1.medium.com/max/2000/1*R5RUr066P2HIJWXd2tEskQ.png)*I thought Facebook might have put their “Do Not Sell” link under the “More” menu. Nah.*
+![I thought Facebook might have put their “Do Not Sell” link under the “More” menu. Nah.](/assets/images/1*R5RUr066P2HIJWXd2tEskQ.png)*I thought Facebook might have put their “Do Not Sell” link under the “More” menu. Nah.*
 
 Third, some companies just don’t give a flying f about what the laws say, because they can easily afford the [fines](https://www.businessinsider.com/facebook-stock-rose-news-5-billion-ftc-settlement-why-critics-2019-7), and because the political climate doesn’t exactly lend itself to serious regulatory action against mega-corporations. While companies like CNN and Wal-Mart make attempts to comply by adding “Do Not Sell” links, Facebook (who collects more personal data than anybody else) has completely ignored it, choosing instead to wait for the next slap on the wrist.
 
@@ -61,7 +59,7 @@ The simple solution that we (two ex-Apple engineers) came up with is to directly
 
 We built a free and open source app that you can [you can download right now](https://lockdownprivacy.com) called Lockdown, and it blocks trackers, ads, and badware in not just your browsers, but *all apps.* So you don’t have to stop reading the news, online shopping, or playing games— just install Lockdown, push a button to activate it, and then go on living your life — we take care of the rest. Here's what it looks like:
 
-![Simple to use for everyone, powerful customizability for advanced users.](https://cdn-images-1.medium.com/max/2250/1*699ZuPFQ9Qc0aOcdJifXIg.png)*Simple to use for everyone, powerful customizability for advanced users.*
+![Simple to use for everyone, powerful customizability for advanced users.](/assets/images/1*699ZuPFQ9Qc0aOcdJifXIg.png)*Simple to use for everyone, powerful customizability for advanced users.*
 
 “Wait a second… *free*? What’s the catch?”, you’re asking, “Are you guys trying to Zuck us over in some hidden, nefarious way?”
 

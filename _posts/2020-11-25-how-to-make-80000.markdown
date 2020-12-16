@@ -13,7 +13,7 @@ At WWDC, Apple reported that they’ve paid out $70 billion to developers, with 
 
 ## Step 1: Follow The Money
 
-![](https://cdn-images-1.medium.com/max/2000/1*FDxvuLRkNMRRVvUda36LFA.png)
+![](/assets/images/1*FDxvuLRkNMRRVvUda36LFA.png)
 
 I scrolled down the list in the Productivity category and saw apps from well-known companies like Dropbox, Evernote, and Microsoft. That was to be expected. But what’s this? The #10 Top Grossing Productivity app (as of June 7th, 2017) was an app called “Mobile protection :Clean & Security VPN”.
 
@@ -23,13 +23,13 @@ I tap into the app details to see that the developer is “Ngan Vo Thi Thuy”. 
 
 Another red flag was this comically terrible app description:
 
-![Direct screenshot from the “Mobile protection :Clean & Security VPN” app description.](https://cdn-images-1.medium.com/max/2000/1*8evBUPzd_qAo0A7YUavHaQ.png)*Direct screenshot from the “Mobile protection :Clean & Security VPN” app description.*
+![Direct screenshot from the “Mobile protection :Clean & Security VPN” app description.](/assets/images/1*8evBUPzd_qAo0A7YUavHaQ.png)*Direct screenshot from the “Mobile protection :Clean & Security VPN” app description.*
 
 According to this, “Mobile protection :Clean & Security VPN” is “Full of features” — well, it’s certainly full of *something*. Apparently, “Mobile protection” includes protecting you from “dupplicate” contacts. And these “scans” are what the screenshots claim as “Quick & Full Scan Internet Security”. Five internets to anyone who can figure out the relationship between Internet Security and duplicate contacts.
 
 All these red flags — and I haven’t even downloaded the app yet. I check the Reviews tab to find some vague, fake-looking 5-star reviews:
 
-![](https://cdn-images-1.medium.com/max/2000/1*lP_-XxGuY2G3D5kwNNqgvA.png)
+![](/assets/images/1*lP_-XxGuY2G3D5kwNNqgvA.png)
 
 Seeing the dates on these reviews brought up another question. How long has this app been up? Well, according to Sensor Tower, “Mobile protection :Clean & Security VPN” has been a top 20 grossing Productivity app since at least April 20th (almost 2 months now).
 
@@ -37,11 +37,11 @@ Seeing the dates on these reviews brought up another question. How long has this
 
 Out of curiosity about this supposedly top grossing app, I download it. Here’s what happens when I open it for the first time:
 
-![](https://cdn-images-1.medium.com/max/2000/1*0CLMsW13YkPTf6gJ_-gDLA.gif)
+![](/assets/images/1*0CLMsW13YkPTf6gJ_-gDLA.gif)
 
 Yes, “**This app need to cccess to your Contact to scan your Contact first.**” The only option here is to tap Agree, and then iOS asks me if I want to give this app “cccess” to my contacts. Uhm, no thank you?
 
-![](https://cdn-images-1.medium.com/max/2000/1*5diXWOginryZgNa8RFWOVQ.png)
+![](/assets/images/1*5diXWOginryZgNa8RFWOVQ.png)
 
 After skipping that, the app tells me my device is at risk. Of course it is. It‘s also ready to “Device Analyze”, Quick and Full Scan, and secure my internet (I can’t wait!).
 
@@ -55,17 +55,17 @@ Oh good — no duplicates, except for the extra “p” in “dupplicated”, I 
 
 Okay, so let me finally secure my internet by tapping “Secure Internet”. Hmm, what’s this—?
 
-![play WITHOUT installing? oh boy!](https://cdn-images-1.medium.com/max/2000/1*Pl6qqjlmplxyOGtgBg-9PA.png)*play WITHOUT installing? oh boy!*
+![play WITHOUT installing? oh boy!](/assets/images/1*Pl6qqjlmplxyOGtgBg-9PA.png)*play WITHOUT installing? oh boy!*
 
 Up comes this incredibly generous offer to play a bubble shooter game *without *installing! Not sure what I did to deserve this amazing free gift, but it will have to wait. I tap the “X” to return to securing my internet.
 
 Here’s the next screen:
 
-![Such generous. Much design. Very scam.](https://cdn-images-1.medium.com/max/2000/1*N1cgm5SZUGDsy7CTiHlHRw.png)*Such generous. Much design. Very scam.*
+![Such generous. Much design. Very scam.](/assets/images/1*N1cgm5SZUGDsy7CTiHlHRw.png)*Such generous. Much design. Very scam.*
 
 And obviously, I jump at the opportunity to “Instantly use full of smart anti-virus” by tapping “FREE TRIAL”. It’s free, after all.
 
-![](https://cdn-images-1.medium.com/max/2000/1*l-1_qUqc2GYRrKoXszHkGg.png)
+![](/assets/images/1*l-1_qUqc2GYRrKoXszHkGg.png)
 
 Touch ID? Okay! Wait… let’s read the fine print:
 
@@ -93,7 +93,7 @@ But how did this app get 50,000 downloads in the first place?
 
 I remembered reading that a large percentage of apps were discovered through app store search. So maybe, this app somehow had really good App Search Optimization. I searched the app store for “virus scanner”:
 
-![](https://cdn-images-1.medium.com/max/2000/1*cRWgmFj05K-GnCkdMdMSbA.png)
+![](/assets/images/1*cRWgmFj05K-GnCkdMdMSbA.png)
 
 The first result is an ad for “Protection for iPhone — Mobile Security VPN”. Well, that sounds familiar. This isn’t the same app, but this one’s In-App Purchase is “Free Trial to Premium Protection” for $99.99, and it’s ranked #33 for Top Grossing in the Business category.
 
@@ -101,7 +101,7 @@ Turns out, scammers are abusing Apple’s relatively new and immature App Store 
 
 Later, I dug deeper to find that unfortunately, these aren't isolated incidents — they’re fairly common in the app store’s top grossing lists. And this isn’t just happening with security related keywords. It seems like scammers are bidding on many other keywords. Here’s a search for “wifi”:
 
-![](https://cdn-images-1.medium.com/max/2000/1*AiHE5tvxiM0HseFkuHy2Jg.png)
+![](/assets/images/1*AiHE5tvxiM0HseFkuHy2Jg.png)
 
 The top result is an ad for “WEP Password Generator”, a simple random string generator that charges $50/month. It’s already making $10,000 per month, despite being released in April. It’s likely a clone of [this app](https://sensortower.com/ios/us/jose-maria-delgado-delgado/app/wifi-password-generator-wep-keys-for-your-modem/884331356/), which indicates that yes, this scheme has become so large that scammers are copying each other.
 
