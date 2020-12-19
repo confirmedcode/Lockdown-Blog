@@ -6,7 +6,7 @@ title: Apple's "Privacy Nutrition Labels" are a Gift to Scam Apps
 
 With the recent release of iOS 14, Apple enabled a new feature called "App Privacy" (or "[Privacy Nutrition Labels](https://www.seattletimes.com/business/technology/new-from-apple-at-wwdc-hand-washing-alerts-iphone-widgets-and-privacy-nutrition-labels/)") in the App Store, which supposedly shows users what information apps collect, and how that information is used. For example, you might have seen people making fun of the Facebook app's long App Privacy section - like the tweet below:
 
-![MacRumors tweet about Facebook app privacy](/assets/images/macrumor tweet.jpg)
+![MacRumors tweet about Facebook app privacy](/assets/images/macrumortweet.jpg)
 
 This, on the surface, *seems* like a win for consumer privacy.
 
