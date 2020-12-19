@@ -27,7 +27,7 @@ Let's say a user is searching for a new email app, and is choosing between two c
 
 ![A table showing the incentive structure that Apple has created with App Privacy.](/assets/images/scamapp.jpg)
 
-In this situation, both the dishonest and the honest email apps collect basic, anonymized analytics. The dishonest app also secretly sells user emails to third parties. The dishonest app, however, writes in their App Privacy that they don't collect or sell *any* data, while the honest app admits that they collect basic analytics data. So a user shopping for apps reads the App Privacy for both apps, decides that they want to "maximize their privacy", and downloads the dishonest app. The end result is that the contents of their emails are sold to third-parties.
+In this situation, both email apps collect basic, anonymized analytics. The dishonest app also secretly sells user emails to third parties. The dishonest app, however, writes in their App Privacy that they don't collect or sell *any* data, while the honest app admits that they collect basic analytics data. So a user shopping for apps reads the App Privacy for both apps, decides that they want to "maximize their privacy", and downloads the dishonest app. The end result is that the contents of their emails are sold to third-parties.
 
 Apple doesn't verify any of the App Privacy information that app developers submit - because they *can't*. *There is currently no way for Apple to know what an app does with user data after the data is sent to the app.* But by drumming up hype about "App Privacy" and **calling it equivalent to "Privacy Nutrition Labels", Apple very strongly implies that the privacy information is vetted, when that is absolutely false**.
 
