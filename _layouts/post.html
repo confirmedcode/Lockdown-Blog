@@ -4,17 +4,15 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header" style="margin-bottom: 0px;">
-    <h2 class="post-title p-name" itemprop="name headline" style="font-size: 38px;">{{ page.title | escape }}</h2>
-    <p class="post-meta">
+    <h2 class="post-title p-name" itemprop="name headline" style="margin-bottom: 0px; font-size: 28px; line-height: 36px;">{{ page.title | escape }}</h2>
+    <p class="post-meta" style="margin-top: 5px; margin-bottom: 10px;">
       Published on
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      by Johnny Lin
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Johnny Lin</span></span>
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
