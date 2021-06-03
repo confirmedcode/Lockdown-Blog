@@ -1,8 +1,8 @@
 ---
-title: Introducing OpenAudit (with Lockdown Privacy)
+title: 'Introducing OpenAudit: Forget Privacy Policies, Get Privacy Proof'
 ---
 
-#### Apps make privacy claims all the time. OpenAudit lets them actually prove it.
+#### To see exactly what your apps are doing with your data, ask for an OpenAudit.
 <!--more-->
 <div style="margin-x:auto; text-align:center; margin-top: 10px; margin-bottom: 10px;">
 	<img src="/assets/images/oa-logo.png" alt="Logo for OpenAudit. Yellow circle with the word OpenAudit to the right of it.)" style="height: 80px;">

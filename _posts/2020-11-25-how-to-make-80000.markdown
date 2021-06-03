@@ -5,7 +5,7 @@ date: '2020-11-25 00:00:00 -0800'
 author: Johnny Lin
 ---
 
-### It’s far easier than you think. No luck or perseverance necessary.
+#### It’s far easier than you think. No luck or perseverance necessary.
 <!--more-->
 
 *Note: I originally published this story on Medium, where it received 45,000 likes (#52 overall that year). I'm republishing it here because writing this helped spark my interest in transparency and trust in software, and eventually building [Lockdown Privacy](https://lockdownprivacy.com){:target="_blank"}, [Openly Operated](https://openlyoperated.org){:target="_blank"}, and [Privacy Review](https://privacyreview.co){:target="_blank"}.*

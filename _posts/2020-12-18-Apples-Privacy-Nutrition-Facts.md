@@ -2,7 +2,7 @@
 title: Apple's "Privacy Nutrition Labels" are a Blessing and a Curse
 ---
 
-### "App Privacy" should give users verified information, not a false sense of security
+#### "App Privacy" should give users verified information, not a false sense of security
 <!--more-->
 
 With the recent release of iOS 14, Apple enabled a new feature called "App Privacy" (or what they call [Privacy Nutrition Labels](https://www.seattletimes.com/business/technology/new-from-apple-at-wwdc-hand-washing-alerts-iphone-widgets-and-privacy-nutrition-labels/)) in the App Store, which supposedly shows users what information apps collect, and how it's used. For example, the Facebook app's extremely long App Privacy section, which details all the information they collect, is already the subject of viral tweets such as this one:
