@@ -1,11 +1,12 @@
 ---
+title: Can You Trust the Apps and Sites You Use?
 layout: post
-title:  "Can You Trust the Apps and Sites You Use?"
-date:   2020-12-02 00:00:00 -0800
-author: "Johnny Lin"
+date: '2020-12-02 00:00:00 -0800'
+author: Johnny Lin
 ---
 
 ### Let's hope every tech company steals this idea.
+<!--more-->
 
 When you send a photo to someone, your messaging app actually first sends the photo to an app’s server, which then sends the photo to them:
 

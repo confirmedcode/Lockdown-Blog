@@ -24,6 +24,7 @@ github_username:  confirmedcode
 author: Johnny Lin
 
 show_excerpts: true
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown

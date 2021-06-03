@@ -1,11 +1,12 @@
 ---
+title: The “Do Not Sell My Personal Data” Button Makes Absolutely No Sense
 layout: post
-title:  "The “Do Not Sell My Personal Data” Button Makes Absolutely No Sense"
-date:   2020-12-09 00:00:00 -0800
-author: "Johnny Lin"
+date: '2020-12-09 00:00:00 -0800'
+author: Johnny Lin
 ---
 
 ### Are there people who *want* their data to be sold?
+<!--more-->
 
 ![](/assets/images/1*UyU_XbnAcNwlrD5WMqHWIw.jpeg)
 
