@@ -378,7 +378,7 @@ Note that in all cases, the user's IP address is exposed to the third party, bec
     </td>
     <td>
       <ul style="text-align: left; margin-bottom: 0px; font-size: 0.85em; margin-left: 18px;">
-				<li>Device Name (e.g, "John's iPhone X")</li> 
+				<li style="color: red;">Device Name (e.g, "John's iPhone X")</li> 
 				<li style="color: red;">Accessibility Setting: Bold Text</li> 
 				<li style="color: red;">Accessibility Setting: Custom Text Size</li> 
 				<li>Display Setting: Dark Mode</li>
