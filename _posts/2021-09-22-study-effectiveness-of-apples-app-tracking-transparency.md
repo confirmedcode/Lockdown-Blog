@@ -5,6 +5,8 @@ author: Johnny Lin and Sean Halloran
 
 #### Does it stop third-party tracking? Or is it just an illusion of privacy?
 <!--more-->
+
+*This study, conducted by Lockdown Privacy, was featured and summarized by The Washington Post in [September 2021](https://www.washingtonpost.com/technology/2021/09/23/iphone-tracking/).*
 ### Summary
 In April 2021, Apple released the App Tracking Transparency ("ATT") feature with iOS 14.5. ATT claims to give users choice and transparency for third-party tracking in their apps, and it was lauded by many as a step forward in protecting user privacy. Does it really work? Five months after its release, we tested ten of the top apps in the App Store to see if ATT succeeds in stopping tracking.
 
