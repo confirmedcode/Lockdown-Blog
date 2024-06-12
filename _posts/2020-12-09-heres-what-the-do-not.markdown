@@ -2,7 +2,7 @@
 title: The “Do Not Sell My Personal Data” Button Makes Absolutely No Sense
 layout: post
 date: '2020-12-09 00:00:00 -0800'
-author: Johnny Lin
+author: Lockdown Privacy
 ---
 
 #### Are there people who *want* their data to be sold?
