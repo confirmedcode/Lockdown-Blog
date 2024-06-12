@@ -2,7 +2,7 @@
 title: Can You Trust the Apps and Sites You Use?
 layout: post
 date: '2020-12-02 00:00:00 -0800'
-author: Johnny Lin
+author: Lockdown Privacy
 ---
 
 #### Let's hope every tech company steals this idea.

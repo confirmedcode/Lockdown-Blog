@@ -1,6 +1,6 @@
 ---
 title: 'Study: Effectiveness of Apple''s App Tracking Transparency'
-author: Johnny Lin and Sean Halloran
+author: Lockdown Privacy
 ---
 
 #### Does it stop third-party tracking? Or is it just an illusion of privacy?
